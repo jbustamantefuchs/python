@@ -1,0 +1,18 @@
+This program allows you to talk to R2D2, if it detects someone it will start a conversation.
+
+1) Run mqtt_presence_docker.py inside docker
+	Open a terminal
+
+	cd jetson-inference/
+
+	docker/run.sh --volume /PATH/TO/FOLDER:/NAME ##change as you want
+
+	cd
+	cd /NAME/
+	python3 mqtt_presence_docker.py
+
+
+2) Run view_to_talk.py
+	Open a terminal
+	python3 view_to_talk.py
+

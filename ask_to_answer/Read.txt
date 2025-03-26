@@ -1,0 +1,5 @@
+1) Download a model from Vosk
+	https://alphacephei.com/vosk/models
+	I used vosk-model-small-en-us-0.15
+
+2) Get API from Gemini
